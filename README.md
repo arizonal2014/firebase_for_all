@@ -77,7 +77,7 @@ New flutterfire way:
       storage: true);
 ```
 
-## Cloud Storage
+## Authentication
 
 get FirebaseAuth.instance with "FirebaseAuthForAll.instance"
 
